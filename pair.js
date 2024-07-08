@@ -59,7 +59,9 @@ router.get('/', async (req, res) => {
                let SIGMA_MD_TEXT = `
 *𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐕5.𝟎.𝟎 𝐋𝐀𝐓𝐄𝐒𝐓 PAIR CODE CONNECTED*
 
-> You have completed the first step of Deploying *BELTAH-MD*, Copy the above message and deploy your bot.Meanwhile you must follow the 4 steps.Contact the developer for bot deployment😊🤝
+*THE ABOVE MESSAGE IS THE SESSION ID*
+
+> You have completed the first step of Deploying *BELTAH-MD*, Copy the above session id and deploy your bot.Meanwhile you must follow the 4 steps.Contact the developer for bot deployment😊🤝
 
 > 1st STEP
 *TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
