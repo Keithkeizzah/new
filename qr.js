@@ -59,32 +59,30 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝐁𝐄𝐋𝐓𝐀𝐇-𝐌𝐃 𝐕𝟒.𝟎.𝟎 𝐋𝐀𝐓𝐄𝐒𝐓 QR CODE CONNECTED*
 
-> You have completed the first step of Deploying *BELTAH-MD*, Copy the above message and deploy your bot.Meanwhile you must follow the 4 steps. 
+*𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
+*𝐄𝐧𝐣𝐨𝐲😺*
+*By _𝐤𝐞𝐢𝐭𝐡𝐤𝐞𝐢𝐳𝐳𝐚𝐡⚪_*
+______________________________
+╔════◇
+║『 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐊𝐄𝐈𝐓𝐇 𝐌𝐃 』
+║ You've Completed the First Step
+║ to Deploy a Whatsapp Bot.
+╚══════════════╝
+╔═════◇
+║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@keithkeizzah_
+║❍ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254748387615_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/HUNCHO-MD_
+║❍ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/GvR2YEfyhQQF85jp1rCLNn_
+║❍ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47_
+║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/keizzah_keith_
+║ ☬ ☬ ☬ ☬
+╚══════════════╝ 
+ 𒂀 𝐊𝐄𝐈𝐓𝐇 𝐌𝐃
+______________________________
 
-> 1st STEP
-*TAP THE LINK BELOW AND FOLLOW THE CHANNEL* 
-𓄂 *_https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F_*
-
-> 2nd STEP
-*YOU MUST JOIN OUR GROUP FOR UPDATES ON THIS BOT*
-𓄂 *_https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI_*
-
-> 3rd STEP
-*FORK AND STAR 🌟 THE REPO FOR COURAGE*
-𓄂 *_https://github.com/Beltahmd/beltah-md_*
-
-> 4th STEP 
-*VISIT FOR TUTORIALS IF YOU DON'T KNOW HOW TO DEPLOY*
-𓄂 *_https://www.youtube.com/@Beltahtech2024_*
-
-*DEVELOPER: BELTAH TECH*
-𓄂 *_https://wa.me/254114141192_*
-
-> MADE ON EARTH BY BELTAH🇰🇪
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 `
-					
+Don't Forget To Give Star⭐ To My Repo`					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
 
